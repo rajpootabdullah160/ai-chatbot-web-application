@@ -38,5 +38,4 @@ A full-stack AI-powered chatbot built using PHP, MySQL, JavaScript, and Groq API
 ### Chat Interface
 ![Chat Interface](assets/screenshots/chatbot-interface.png)
 
-### Chat History
-![Chat History](assets/screenshots/chat-history.png)
+
