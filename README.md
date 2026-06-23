@@ -27,4 +27,18 @@ A full-stack AI-powered chatbot built using PHP, MySQL, JavaScript, and Groq API
 3. Configure API key
 4. Run using XAMPP
 
+## Screenshots
+
+### Login Page
+![Login Page](assets/screenshots/login-page.png)
+
+### Registration Page
+![Registration Page](assets/screenshots/register-page.png)
+
+### Chat Interface
+![Chat Interface](assets/screenshots/chatbot-interface.png)
+
+### Chat History
+![Chat History](assets/screenshots/chat-history.png)
+
 
