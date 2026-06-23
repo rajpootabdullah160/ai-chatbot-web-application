@@ -30,15 +30,15 @@ A full-stack AI-powered chatbot built using PHP, MySQL, JavaScript, and Groq API
 ## Screenshots
 
 ### Login Page
-![Login Page](assets/screenshots/login-page.png)
+![Login Page](assets/screenshots/Screenshot 2026-06-23 171150.png)
 
 ### Registration Page
-![Registration Page](assets/screenshots/register-page.png)
+![Registration Page](assets/screenshots/Screenshot 2026-06-23 165402.png)
 
 ### Chat Interface
-![Chat Interface](assets/screenshots/chatbot-interface.png)
+![Chat Interface](assets/screenshots/Screenshot 2026-06-23 171240.png)
 
 ### Chat History
-![Chat History](assets/screenshots/chat-history.png)
+![Chat History](assets/screenshots/Screenshot 2026-06-23 171240.png)
 
 
